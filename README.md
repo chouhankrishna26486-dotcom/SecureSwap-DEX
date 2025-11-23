@@ -28,5 +28,5 @@ This is a web-based application developed for **Scope Global Skills University (
    ```bash
    git clone [https://github.com/chouhankrishna26486-dotcom/attendance-system.git](https://github.com/chouhankrishna26486-dotcom/attendance-system.git)
 // 
-Updated on 2025-11-22
+End
 // 
