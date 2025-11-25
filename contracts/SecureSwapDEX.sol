@@ -60,17 +60,8 @@ State variables
         uint256 amountAfterFee = amountIn - fee;
         
         Simplified calculation - in production, use proper AMM formula
-        return (amountIn * 98) / 100; // 2% slippage simulation
-    }
-    
-    /**
-     * @dev Fallback function to receive ETH
-     */
-    receive() external payable {
-        totalLiquidity += msg.value;
-        liquidityProviders[msg.sender] += msg.value;
-    }
-}
+        return (amountIn * 98) / 100; End
+// 
 // 
 End
 // 
