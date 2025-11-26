@@ -61,6 +61,7 @@ State variables
         
         Simplified calculation - in production, use proper AMM formula
         return (amountIn * 98) / 100; End
+End
 // 
 // 
 End
